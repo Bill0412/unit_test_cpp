@@ -9,3 +9,6 @@ cmake -S . -B build
 cmake --build build [-j16]
 ./build/tests/tests
 ```
+
+# References
+1. [Back to Basics: Testing in C++ - Phil Nash - CppCon 2023](https://www.youtube.com/watch?v=7_H4qzhWbnQ)
