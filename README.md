@@ -12,3 +12,4 @@ cmake --build build [-j16]
 
 # References
 1. [Back to Basics: Testing in C++ - Phil Nash - CppCon 2023](https://www.youtube.com/watch?v=7_H4qzhWbnQ)
+2. [Back to Basics: Unit Testing in C++ - Dave Steffen - CppCon 2024](https://www.youtube.com/watch?v=MwoAM3sznS0)
